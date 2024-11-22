@@ -13,8 +13,8 @@ Whether you're looking for adventure, relaxation, or culture, GlobeGuide has som
 4. Responsive Design: Optimized for use on both desktop and mobile devices.
 
 # ScreenShots
-# Home Section
+                                 # Home Section
 ![image](https://github.com/user-attachments/assets/61274144-d152-4921-b2c5-aabf286bf88b)
 
-# Tours Section
+                                 # Tours Section
 ![image](https://github.com/user-attachments/assets/66eb0b58-7425-4786-80db-fe24bc8fbab2)
