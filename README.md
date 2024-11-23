@@ -1,12 +1,10 @@
 # Travel-Website
- https://shreya-code26.github.io/Travel-Website/
+Link To The Site:  https://shreya-code26.github.io/Travel-Website/
  
 # Description:
-Welcome to GlobeGuide - Your guide to the World!
-A travel website designed to help users discover amazing destinations, explore travel deals, and plan their next vacation—all using a simple, responsive web interface. 
-Technologies used are HTML, CSS, and JavaScript. 
-GlobeGuide offers a user-friendly platform for browsing top destinations, popular tours, and viewing curated tour packages. 
-Whether you're looking for adventure, relaxation, or culture, GlobeGuide has something for every traveler.
+GlobeGuide - Your guide to the World! A user-friendly travel website designed to help you effortlessly plan your next vacation. Our platform offers a wide range of resources to make your trip planning seamless and enjoyable. GlobeGuide is your passport to explore the world's most exciting destinations and discover amazing events, tours, and hidden gems. Our platform is designed to inspire and assist you in planning your next unforgettable journey.
+
+We utilize front-end technologies like HTML, CSS, and JavaScript to ensure a fast and responsive experience, optimized for both desktop and mobile devices. Whether you're seeking thrilling adventures, relaxing beach getaways, or immersive cultural experiences, GlobeGuide caters to every traveler's unique needs and preferences.
 
 # Features:
 1. Destination: Browse a list of popular travel destinations with photos and descriptions.
