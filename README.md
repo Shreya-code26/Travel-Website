@@ -12,6 +12,10 @@ Whether you're looking for adventure, relaxation, or culture, GlobeGuide has som
 3. Interactive UI: Features interactive JavaScript elements like smooth scroll.
 4. Responsive Design: Optimized for use on both desktop and mobile devices.
 
+# Live Demo
+Here is the link to check the live demo
+file:///C:/Users/shreya/OneDrive/Documents/GlobeGuide/index.html
+
 # ScreenShots
 ![image](https://github.com/user-attachments/assets/61274144-d152-4921-b2c5-aabf286bf88b)
 
